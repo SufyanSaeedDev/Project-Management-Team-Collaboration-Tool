@@ -1,0 +1,11 @@
+{
+  "name": "taskflow-server",
+  "version": "1.0.0",
+  "description": "TaskFlow Backend",
+  "scripts": {
+    "dev": "tsx watch src/index.ts"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
